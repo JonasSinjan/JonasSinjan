@@ -7,7 +7,7 @@ I'm from Belgium, but lived in the UK, USA, Australia and now Germany!
 - 🌎 PHI is the first instrument of its kind to view the Sun from a viewpoint other than that from the Earth
 - 🚲 When my head is not completely immersed in the Sun, I am most likely spending time with my loved ones and/or being active: like training for an upcoming triathlon.
 
-- ![Jonas's github stats](https://github-readme-stats.vercel.app/api?username=JonasSinjan&show_icons=true)
+![Jonas's github stats](https://github-readme-stats.vercel.app/api?username=JonasSinjan&show_icons=true)
 <!--
 **JonasSinjan/JonasSinjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
