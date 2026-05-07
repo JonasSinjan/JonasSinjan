@@ -2,10 +2,10 @@
 
 I'm from Belgium, but lived in the UK, USA, Australia and now Germany!
 
-- 🚀 I’m currently working on data from the newly launched Solar Orbiter (Feb 2020 is new in space missions :P ). In particular I am heavily involved in the processing and analysis of data from the PHI (Polarimeter Helioseismic Imager), which was partly developed where I now work as a Postdoctoral Researcher: the Max Planck Institute for Solar System Research in Goettingen, Germany. <br>
+- 🛰️ I'm currently a scientific software engineer at Telespazio Germany GmbH, working on the upcoming CO2M mission. I am contributing to the instrument processing and cal/val efforts, which will be operated by EUMETSAT.
+
+- 🚀 In my previous life as a scientist I worked on the Solar Orbiter mission. In particular I was heavily involved in the processing and analysis of data from the PHI (Polarimeter Helioseismic Imager), which was primarily built where I worked at the Max Planck Institute for Solar System Research in Goettingen, Germany. <br>
 - 🌞 PHI measures the photospheric vector magnetic field and the line-of-sight velocity. This is critical to a better understanding of the Sun, as the magnetic field dominates the processes that happen on the Sun, and inform us about potential Space Weather events! <br>
-- 🌎 PHI is the first instrument of its kind to view the Sun from a viewpoint other than that from the Earth
-- 🚲 When my head is not completely immersed in the Sun, I am most likely spending time with my loved ones and/or being active.
 
 <!--
 **JonasSinjan/JonasSinjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
