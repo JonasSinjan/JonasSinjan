@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jonas and I do research in solar and space physics 🌞
+### Hi there 👋 I'm Jonas and I work in Earth Observation! 🌞
 
 I'm from Belgium, but lived in the UK, USA, Australia and now Germany!
 
